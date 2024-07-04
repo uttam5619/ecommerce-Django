@@ -1,0 +1,21 @@
+nav{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+    background-image: linear-gradient(to right, black, rgb(112, 102, 102),black);
+    
+}
+
+#navigationSection{
+    display: flex;
+    column-gap: 16px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
